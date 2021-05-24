@@ -166,10 +166,6 @@
     "webpack": "^4.42.1",
     "webpack-bundle-analyzer": "^3.6.1"
   },
-  "optionalDependencies": {
-    "husky": "^4.2.3",
-    "playwright": "^1.8.1"
-  },
   "main": "./src/extension.js",
   "enableProposedApi": true,
   "activationEvents": [
